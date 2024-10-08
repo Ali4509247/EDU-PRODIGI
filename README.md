@@ -1,15 +1,15 @@
-# Briefly Description of this Project
+# Description of this Project
 What is the purpose of our project?
 
-Our project is designed for a university student who is willing to :
-1. find a mentor for academic purposes
+Our project is designed for a university student who wants to:
+1. Find a mentor for academic purposes
 2. find a mentor or see someone's experience in a career (i.e. include internship)
-3. find a teammate or colleague to attend an event
-4. find a teammate to build a project together.
+3. Find a teammate or colleague to attend an event
+4. Find a teammate to build a project together.
 
 Why does this project come out?
 
-We intend to create a website to create a better social networking platform for students in any university worldwide. Due to COVID-19, we observe that people have less chance to connect with others.
+Due to COVID-19, we observe that people have less chance to connect with others. So, we intend to create a website to create a better social networking platform for students in any university worldwide. 
 
 How will this project work?
 
